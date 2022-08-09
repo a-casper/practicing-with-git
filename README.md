@@ -1,3 +1,3 @@
 ## Galvanize
 
-Version Control is fun.
+Version Control is fun. Let's make some changes.
